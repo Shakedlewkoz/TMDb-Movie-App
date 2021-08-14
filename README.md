@@ -8,7 +8,7 @@ Movie App based on The Movie Database API.
 In order to install the App:
 - Node.js and npm required.
 - Run in cmd:
-npm install\n
+npm install,
 npm run start
 
 
