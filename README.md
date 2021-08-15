@@ -18,11 +18,11 @@ npm run start
 
 **Homepage:**
 
-![image](https://user-images.githubusercontent.com/65910246/129440412-e186fb55-aeda-4c86-b61d-7932d7cacdfc.png)
+![image](https://user-images.githubusercontent.com/65910246/129472881-114b2e7e-b61e-4a5f-a32f-b77d61d9aa63.png)
 
 **Clicking a movie:**
 
-![image](https://user-images.githubusercontent.com/65910246/129440443-0647ba15-e697-4eff-b88a-a1002318f04a.png)
+![WhatsApp Image 2021-08-12 at 16 55 53](https://user-images.githubusercontent.com/65910246/129472913-73e446d0-0afe-47ac-b4cb-e31e24b8da6d.jpeg)
 
 **Searching:**
 
