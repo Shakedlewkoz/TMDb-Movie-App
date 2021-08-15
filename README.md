@@ -1,15 +1,19 @@
 # TMDb Movie App
 Movie App based on The Movie Database API.
 
+## Features
 - The app represents the top popular movies with the ability to load more pages.
-- When clicking on a movie, new details about it open.
+- Clicking on a movie opens new details about it.
 - Movies can be searced by name.
 
-In order to install the App:
+## In order to install the App:
 - Node.js and npm required.
 - Run in cmd:
-npm install,
+```bash
+npm install
 npm run start
+```
+
 
 
 Homepage:
