@@ -1,5 +1,5 @@
 # TMDb Movie App
-Movie App based on The Movie Database API.
+Movie App based on The Movie Database API. 
 
 ## Features
 - The app represents the top popular movies with the ability to load more pages.
