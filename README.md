@@ -22,7 +22,7 @@ npm run start
 
 **Clicking a movie:**
 
-![WhatsApp Image 2021-08-12 at 16 55 53](https://user-images.githubusercontent.com/65910246/129472913-73e446d0-0afe-47ac-b4cb-e31e24b8da6d.jpeg)
+![WhatsApp Image 2021-08-12 at 16 55 53](https://user-images.githubusercontent.com/65910246/129472932-fa05d498-47ac-4796-9bbb-0bca39ed45cb.jpeg)
 
 **Searching:**
 
