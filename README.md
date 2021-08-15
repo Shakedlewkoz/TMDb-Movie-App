@@ -6,7 +6,7 @@ Movie App based on The Movie Database API.
 - Clicking on a movie opens new details about it.
 - Movies can be searced by name.
 
-## In order to install the App:
+## Installation
 - Node.js and npm required.
 - Run in cmd:
 ```bash
